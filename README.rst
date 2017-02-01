@@ -137,8 +137,9 @@ This project uses ``pytest`` for testing.
 Using travis-ci to provide automated testing for CI
 ===============================================
 
-.. note::
-  This still needs to be set up
+This project uses `travis-ci` to perform automated testing on all branches.
+
+`Read more about travis-ci on travis-ci.org <https://docs.travis-ci.com>`_
 
 
 *************
