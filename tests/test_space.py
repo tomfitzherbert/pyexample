@@ -27,5 +27,6 @@ def test_create_spaceship():
     serenity = Spaceship("Serenity",
                          "Captain Reynold's favourite place")
     assert serenity.name == "Serenity"
+    assert serenity.model == "Firefly"
     assert serenity.description == "Captain Reynold's favourite place"
     assert serenity.inventory == []
