@@ -1,5 +1,4 @@
 # Licensed under MIT
 # <tom@viabledata.co.uk>
-someconfig:
-  option1: value1
-  option2: value2
+
+default_model: Firefly
